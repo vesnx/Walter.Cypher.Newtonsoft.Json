@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="11cebad4-3779-45f0-bf18-300d7299e0f9" Title="Newtonsoft.Json Namespace" Url="html/N-Newtonsoft.Json.htm">
+    <HelpTOCNode Id="68a5d774-e87b-458d-bb29-8361e5fdb540" Title="BasicJsonConverter(TTarget, TImplementer) Class" Url="html/T-Newtonsoft.Json.BasicJsonConverter-2.htm">
+      <HelpTOCNode Title="BasicJsonConverter(TTarget, TImplementer) Members" Url="html/AllMembers.T-Newtonsoft.Json.BasicJsonConverter-2.htm" />
+      <HelpTOCNode Title="BasicJsonConverter(TTarget, TImplementer) Methods" Url="html/Methods.T-Newtonsoft.Json.BasicJsonConverter-2.htm" />
+      <HelpTOCNode Title="BasicJsonConverter(TTarget, TImplementer) Properties" Url="html/Properties.T-Newtonsoft.Json.BasicJsonConverter-2.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="2ef2a23c-4704-4d97-8970-5ae47dbb0efa" Title="GDPRCollectionOfStringConverter Class" Url="html/T-Newtonsoft.Json.GDPRCollectionOfStringConverter.htm">
+      <HelpTOCNode Title="GDPRCollectionOfStringConverter Members" Url="html/AllMembers.T-Newtonsoft.Json.GDPRCollectionOfStringConverter.htm" />
+      <HelpTOCNode Id="6fc79517-cfa3-484f-88f6-c412109ff7d1" Title="GDPRCollectionOfStringConverter Methods" Url="html/Methods.T-Newtonsoft.Json.GDPRCollectionOfStringConverter.htm">
+        <HelpTOCNode Id="6d613b61-2326-4827-97a8-292108adedb6" Title="ReadJson Method " Url="html/Overload-Newtonsoft.Json.GDPRCollectionOfStringConverter.ReadJson.htm">
+          <HelpTOCNode Title="ReadJson Method " Url="html/M-Newtonsoft.Json.GDPRCollectionOfStringConverter.ReadJson.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="01465338-008c-4103-adfd-8f0383e11329" Title="WriteJson Method " Url="html/Overload-Newtonsoft.Json.GDPRCollectionOfStringConverter.WriteJson.htm">
+          <HelpTOCNode Title="WriteJson Method " Url="html/M-Newtonsoft.Json.GDPRCollectionOfStringConverter.WriteJson.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="GDPRCollectionOfStringConverter Properties" Url="html/Properties.T-Newtonsoft.Json.GDPRCollectionOfStringConverter.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="04486273-e6da-48e5-b53e-7a315aae3a25" Title="GDPRIPAddressConverter Class" Url="html/T-Newtonsoft.Json.GDPRIPAddressConverter.htm">
+      <HelpTOCNode Title="GDPRIPAddressConverter Members" Url="html/AllMembers.T-Newtonsoft.Json.GDPRIPAddressConverter.htm" />
+      <HelpTOCNode Id="6d23efe6-8afb-4745-a89c-ebead548554c" Title="GDPRIPAddressConverter Methods" Url="html/Methods.T-Newtonsoft.Json.GDPRIPAddressConverter.htm">
+        <HelpTOCNode Id="2aa6d594-9e67-40d2-bdd1-4f31aa837090" Title="ReadJson Method " Url="html/Overload-Newtonsoft.Json.GDPRIPAddressConverter.ReadJson.htm">
+          <HelpTOCNode Title="ReadJson Method " Url="html/M-Newtonsoft.Json.GDPRIPAddressConverter.ReadJson.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="34cd7021-3ae2-4977-bea6-80ebb2156b23" Title="WriteJson Method " Url="html/Overload-Newtonsoft.Json.GDPRIPAddressConverter.WriteJson.htm">
+          <HelpTOCNode Title="WriteJson Method " Url="html/M-Newtonsoft.Json.GDPRIPAddressConverter.WriteJson.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="GDPRIPAddressConverter Properties" Url="html/Properties.T-Newtonsoft.Json.GDPRIPAddressConverter.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="3dbe2773-731b-4fe6-a1fa-c76a87a75455" Title="GDPRIPAddressListConverter Class" Url="html/T-Newtonsoft.Json.GDPRIPAddressListConverter.htm">
+      <HelpTOCNode Title="GDPRIPAddressListConverter Members" Url="html/AllMembers.T-Newtonsoft.Json.GDPRIPAddressListConverter.htm" />
+      <HelpTOCNode Id="15e3cb1c-61c7-46f6-836d-76117a511332" Title="GDPRIPAddressListConverter Methods" Url="html/Methods.T-Newtonsoft.Json.GDPRIPAddressListConverter.htm">
+        <HelpTOCNode Id="256fbcc5-8f88-4a22-a6b2-2ce223941bc4" Title="ReadJson Method " Url="html/Overload-Newtonsoft.Json.GDPRIPAddressListConverter.ReadJson.htm">
+          <HelpTOCNode Title="ReadJson Method " Url="html/M-Newtonsoft.Json.GDPRIPAddressListConverter.ReadJson.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="618ed0bc-baa9-4be9-904a-1bcbef69eb1d" Title="WriteJson Method " Url="html/Overload-Newtonsoft.Json.GDPRIPAddressListConverter.WriteJson.htm">
+          <HelpTOCNode Title="WriteJson Method " Url="html/M-Newtonsoft.Json.GDPRIPAddressListConverter.WriteJson.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="GDPRIPAddressListConverter Properties" Url="html/Properties.T-Newtonsoft.Json.GDPRIPAddressListConverter.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="8610bdfc-6274-4065-8744-4c1271d8a02b" Title="GDPRObfuscatedDateTimeConverter Class" Url="html/T-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.htm">
+      <HelpTOCNode Title="GDPRObfuscatedDateTimeConverter Members" Url="html/AllMembers.T-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.htm" />
+      <HelpTOCNode Id="9cf90f04-c1a8-4228-8e76-1e1ad9912949" Title="GDPRObfuscatedDateTimeConverter Methods" Url="html/Methods.T-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.htm">
+        <HelpTOCNode Id="bee94b84-cab3-4496-8f79-04b97677d728" Title="ReadJson Method " Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.ReadJson.htm">
+          <HelpTOCNode Title="ReadJson Method " Url="html/M-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.ReadJson.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="69d8cc53-67c3-40ee-9845-d63b78c28175" Title="WriteJson Method " Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.WriteJson.htm">
+          <HelpTOCNode Title="WriteJson Method " Url="html/M-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.WriteJson.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="GDPRObfuscatedDateTimeConverter Properties" Url="html/Properties.T-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="408c644c-f58b-4691-bad0-012471c7e0cb" Title="GDPRObfuscatedIntConverter Class" Url="html/T-Newtonsoft.Json.GDPRObfuscatedIntConverter.htm">
+      <HelpTOCNode Title="GDPRObfuscatedIntConverter Members" Url="html/AllMembers.T-Newtonsoft.Json.GDPRObfuscatedIntConverter.htm" />
+      <HelpTOCNode Id="87f8e315-c8ec-4c5e-b7b4-e8fbc9e22b36" Title="GDPRObfuscatedIntConverter Methods" Url="html/Methods.T-Newtonsoft.Json.GDPRObfuscatedIntConverter.htm">
+        <HelpTOCNode Id="ca979dc6-720b-4be6-b3c3-e34435398626" Title="CanConvert Method " Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedIntConverter.CanConvert.htm">
+          <HelpTOCNode Title="CanConvert Method " Url="html/M-Newtonsoft.Json.GDPRObfuscatedIntConverter.CanConvert.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d50e6320-b781-4d1e-8668-4ff545ab7618" Title="ReadJson Method " Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedIntConverter.ReadJson.htm">
+          <HelpTOCNode Title="ReadJson Method " Url="html/M-Newtonsoft.Json.GDPRObfuscatedIntConverter.ReadJson.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="8cd5c4be-6891-4e95-95c0-6675c0281e70" Title="WriteJson Method " Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedIntConverter.WriteJson.htm">
+          <HelpTOCNode Title="WriteJson Method " Url="html/M-Newtonsoft.Json.GDPRObfuscatedIntConverter.WriteJson.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="GDPRObfuscatedIntConverter Properties" Url="html/Properties.T-Newtonsoft.Json.GDPRObfuscatedIntConverter.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="10d9e684-bd21-4cf9-b8a9-b240e9f60a45" Title="GDPRObfuscatedStringConverter Class" Url="html/T-Newtonsoft.Json.GDPRObfuscatedStringConverter.htm">
+      <HelpTOCNode Title="GDPRObfuscatedStringConverter Members" Url="html/AllMembers.T-Newtonsoft.Json.GDPRObfuscatedStringConverter.htm" />
+      <HelpTOCNode Id="56747646-0fd2-4636-b101-a4cd65afeb89" Title="GDPRObfuscatedStringConverter Methods" Url="html/Methods.T-Newtonsoft.Json.GDPRObfuscatedStringConverter.htm">
+        <HelpTOCNode Id="ea17b581-0ec5-4c45-8105-ffd8b8a8a022" Title="ReadJson Method " Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedStringConverter.ReadJson.htm">
+          <HelpTOCNode Title="ReadJson Method " Url="html/M-Newtonsoft.Json.GDPRObfuscatedStringConverter.ReadJson.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="0df806b3-8fc9-436a-8b80-aeeaf47198f8" Title="WriteJson Method " Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedStringConverter.WriteJson.htm">
+          <HelpTOCNode Title="WriteJson Method " Url="html/M-Newtonsoft.Json.GDPRObfuscatedStringConverter.WriteJson.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="GDPRObfuscatedStringConverter Properties" Url="html/Properties.T-Newtonsoft.Json.GDPRObfuscatedStringConverter.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="c0cbe110-01bc-4d71-9f63-42a2c6ddb0ce" Title="System Namespace" Url="html/N-System.htm">
+    <HelpTOCNode Id="5c2318e9-10b7-4fb7-b691-5f58f5db6d7d" Title="StringExtensions Class" Url="html/T-System.StringExtensions.htm">
+      <HelpTOCNode Title="StringExtensions Methods" Url="html/Methods.T-System.StringExtensions.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

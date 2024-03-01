@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+
+  <HelpKINode Title="BasicJsonConverter(Of TTarget, TImplementer) class" Url="html/AllMembers.T-Newtonsoft.Json.BasicJsonConverter-2.htm" />
+  <HelpKINode Title="BasicJsonConverter(Of TTarget, TImplementer) class" Url="html/T-Newtonsoft.Json.BasicJsonConverter-2.htm" />
+  <HelpKINode Title="BasicJsonConverter(Of TTarget, TImplementer) class">
+    <HelpKINode Title="about BasicJsonConverter(Of TTarget, TImplementer) class" Url="html/T-Newtonsoft.Json.BasicJsonConverter-2.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Newtonsoft.Json.BasicJsonConverter-2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Newtonsoft.Json.BasicJsonConverter-2.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Newtonsoft.Json.BasicJsonConverter-2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BasicJsonConverter&lt;TTarget, TImplementer&gt; class" Url="html/AllMembers.T-Newtonsoft.Json.BasicJsonConverter-2.htm" />
+  <HelpKINode Title="BasicJsonConverter&lt;TTarget, TImplementer&gt; class" Url="html/T-Newtonsoft.Json.BasicJsonConverter-2.htm" />
+  <HelpKINode Title="BasicJsonConverter&lt;TTarget, TImplementer&gt; class">
+    <HelpKINode Title="about BasicJsonConverter&lt;TTarget, TImplementer&gt; class" Url="html/T-Newtonsoft.Json.BasicJsonConverter-2.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Newtonsoft.Json.BasicJsonConverter-2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Newtonsoft.Json.BasicJsonConverter-2.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Newtonsoft.Json.BasicJsonConverter-2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CanConvert method" Url="html/M-Newtonsoft.Json.GDPRObfuscatedIntConverter.CanConvert.htm" />
+  <HelpKINode Title="CanConvert method" Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedIntConverter.CanConvert.htm" />
+  <HelpKINode Title="GDPRCollectionOfStringConverter class" Url="html/AllMembers.T-Newtonsoft.Json.GDPRCollectionOfStringConverter.htm" />
+  <HelpKINode Title="GDPRCollectionOfStringConverter class" Url="html/T-Newtonsoft.Json.GDPRCollectionOfStringConverter.htm" />
+  <HelpKINode Title="GDPRCollectionOfStringConverter class">
+    <HelpKINode Title="about GDPRCollectionOfStringConverter class" Url="html/T-Newtonsoft.Json.GDPRCollectionOfStringConverter.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Newtonsoft.Json.GDPRCollectionOfStringConverter.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Newtonsoft.Json.GDPRCollectionOfStringConverter.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Newtonsoft.Json.GDPRCollectionOfStringConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GDPRCollectionOfStringConverter.ReadJson method" Url="html/M-Newtonsoft.Json.GDPRCollectionOfStringConverter.ReadJson.htm" />
+  <HelpKINode Title="GDPRCollectionOfStringConverter.ReadJson method" Url="html/Overload-Newtonsoft.Json.GDPRCollectionOfStringConverter.ReadJson.htm" />
+  <HelpKINode Title="GDPRCollectionOfStringConverter.WriteJson method" Url="html/M-Newtonsoft.Json.GDPRCollectionOfStringConverter.WriteJson.htm" />
+  <HelpKINode Title="GDPRCollectionOfStringConverter.WriteJson method" Url="html/Overload-Newtonsoft.Json.GDPRCollectionOfStringConverter.WriteJson.htm" />
+  <HelpKINode Title="GDPRIPAddressConverter class" Url="html/AllMembers.T-Newtonsoft.Json.GDPRIPAddressConverter.htm" />
+  <HelpKINode Title="GDPRIPAddressConverter class" Url="html/T-Newtonsoft.Json.GDPRIPAddressConverter.htm" />
+  <HelpKINode Title="GDPRIPAddressConverter class">
+    <HelpKINode Title="about GDPRIPAddressConverter class" Url="html/T-Newtonsoft.Json.GDPRIPAddressConverter.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Newtonsoft.Json.GDPRIPAddressConverter.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Newtonsoft.Json.GDPRIPAddressConverter.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Newtonsoft.Json.GDPRIPAddressConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GDPRIPAddressConverter.ReadJson method" Url="html/M-Newtonsoft.Json.GDPRIPAddressConverter.ReadJson.htm" />
+  <HelpKINode Title="GDPRIPAddressConverter.ReadJson method" Url="html/Overload-Newtonsoft.Json.GDPRIPAddressConverter.ReadJson.htm" />
+  <HelpKINode Title="GDPRIPAddressConverter.WriteJson method" Url="html/M-Newtonsoft.Json.GDPRIPAddressConverter.WriteJson.htm" />
+  <HelpKINode Title="GDPRIPAddressConverter.WriteJson method" Url="html/Overload-Newtonsoft.Json.GDPRIPAddressConverter.WriteJson.htm" />
+  <HelpKINode Title="GDPRIPAddressListConverter class" Url="html/AllMembers.T-Newtonsoft.Json.GDPRIPAddressListConverter.htm" />
+  <HelpKINode Title="GDPRIPAddressListConverter class" Url="html/T-Newtonsoft.Json.GDPRIPAddressListConverter.htm" />
+  <HelpKINode Title="GDPRIPAddressListConverter class">
+    <HelpKINode Title="about GDPRIPAddressListConverter class" Url="html/T-Newtonsoft.Json.GDPRIPAddressListConverter.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Newtonsoft.Json.GDPRIPAddressListConverter.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Newtonsoft.Json.GDPRIPAddressListConverter.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Newtonsoft.Json.GDPRIPAddressListConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GDPRIPAddressListConverter.ReadJson method" Url="html/M-Newtonsoft.Json.GDPRIPAddressListConverter.ReadJson.htm" />
+  <HelpKINode Title="GDPRIPAddressListConverter.ReadJson method" Url="html/Overload-Newtonsoft.Json.GDPRIPAddressListConverter.ReadJson.htm" />
+  <HelpKINode Title="GDPRIPAddressListConverter.WriteJson method" Url="html/M-Newtonsoft.Json.GDPRIPAddressListConverter.WriteJson.htm" />
+  <HelpKINode Title="GDPRIPAddressListConverter.WriteJson method" Url="html/Overload-Newtonsoft.Json.GDPRIPAddressListConverter.WriteJson.htm" />
+  <HelpKINode Title="GDPRObfuscatedDateTimeConverter class" Url="html/AllMembers.T-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.htm" />
+  <HelpKINode Title="GDPRObfuscatedDateTimeConverter class" Url="html/T-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.htm" />
+  <HelpKINode Title="GDPRObfuscatedDateTimeConverter class">
+    <HelpKINode Title="about GDPRObfuscatedDateTimeConverter class" Url="html/T-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GDPRObfuscatedDateTimeConverter.ReadJson method" Url="html/M-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.ReadJson.htm" />
+  <HelpKINode Title="GDPRObfuscatedDateTimeConverter.ReadJson method" Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.ReadJson.htm" />
+  <HelpKINode Title="GDPRObfuscatedDateTimeConverter.WriteJson method" Url="html/M-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.WriteJson.htm" />
+  <HelpKINode Title="GDPRObfuscatedDateTimeConverter.WriteJson method" Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.WriteJson.htm" />
+  <HelpKINode Title="GDPRObfuscatedIntConverter class" Url="html/AllMembers.T-Newtonsoft.Json.GDPRObfuscatedIntConverter.htm" />
+  <HelpKINode Title="GDPRObfuscatedIntConverter class" Url="html/T-Newtonsoft.Json.GDPRObfuscatedIntConverter.htm" />
+  <HelpKINode Title="GDPRObfuscatedIntConverter class">
+    <HelpKINode Title="about GDPRObfuscatedIntConverter class" Url="html/T-Newtonsoft.Json.GDPRObfuscatedIntConverter.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Newtonsoft.Json.GDPRObfuscatedIntConverter.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Newtonsoft.Json.GDPRObfuscatedIntConverter.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Newtonsoft.Json.GDPRObfuscatedIntConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GDPRObfuscatedIntConverter.CanConvert method" Url="html/M-Newtonsoft.Json.GDPRObfuscatedIntConverter.CanConvert.htm" />
+  <HelpKINode Title="GDPRObfuscatedIntConverter.CanConvert method" Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedIntConverter.CanConvert.htm" />
+  <HelpKINode Title="GDPRObfuscatedIntConverter.ReadJson method" Url="html/M-Newtonsoft.Json.GDPRObfuscatedIntConverter.ReadJson.htm" />
+  <HelpKINode Title="GDPRObfuscatedIntConverter.ReadJson method" Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedIntConverter.ReadJson.htm" />
+  <HelpKINode Title="GDPRObfuscatedIntConverter.WriteJson method" Url="html/M-Newtonsoft.Json.GDPRObfuscatedIntConverter.WriteJson.htm" />
+  <HelpKINode Title="GDPRObfuscatedIntConverter.WriteJson method" Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedIntConverter.WriteJson.htm" />
+  <HelpKINode Title="GDPRObfuscatedStringConverter class" Url="html/AllMembers.T-Newtonsoft.Json.GDPRObfuscatedStringConverter.htm" />
+  <HelpKINode Title="GDPRObfuscatedStringConverter class" Url="html/T-Newtonsoft.Json.GDPRObfuscatedStringConverter.htm" />
+  <HelpKINode Title="GDPRObfuscatedStringConverter class">
+    <HelpKINode Title="about GDPRObfuscatedStringConverter class" Url="html/T-Newtonsoft.Json.GDPRObfuscatedStringConverter.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-Newtonsoft.Json.GDPRObfuscatedStringConverter.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-Newtonsoft.Json.GDPRObfuscatedStringConverter.htm" />
+    <HelpKINode Title="properties" Url="html/Properties.T-Newtonsoft.Json.GDPRObfuscatedStringConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GDPRObfuscatedStringConverter.ReadJson method" Url="html/M-Newtonsoft.Json.GDPRObfuscatedStringConverter.ReadJson.htm" />
+  <HelpKINode Title="GDPRObfuscatedStringConverter.ReadJson method" Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedStringConverter.ReadJson.htm" />
+  <HelpKINode Title="GDPRObfuscatedStringConverter.WriteJson method" Url="html/M-Newtonsoft.Json.GDPRObfuscatedStringConverter.WriteJson.htm" />
+  <HelpKINode Title="GDPRObfuscatedStringConverter.WriteJson method" Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedStringConverter.WriteJson.htm" />
+  <HelpKINode Title="Newtonsoft.Json namespace" Url="html/N-Newtonsoft.Json.htm" />
+  <HelpKINode Title="Newtonsoft.Json.BasicJsonConverter(Of TTarget, TImplementer) class" Url="html/AllMembers.T-Newtonsoft.Json.BasicJsonConverter-2.htm" />
+  <HelpKINode Title="Newtonsoft.Json.BasicJsonConverter(Of TTarget, TImplementer) class" Url="html/T-Newtonsoft.Json.BasicJsonConverter-2.htm" />
+  <HelpKINode Title="Newtonsoft.Json.BasicJsonConverter&lt;TTarget, TImplementer&gt; class" Url="html/AllMembers.T-Newtonsoft.Json.BasicJsonConverter-2.htm" />
+  <HelpKINode Title="Newtonsoft.Json.BasicJsonConverter&lt;TTarget, TImplementer&gt; class" Url="html/T-Newtonsoft.Json.BasicJsonConverter-2.htm" />
+  <HelpKINode Title="Newtonsoft.Json.GDPRCollectionOfStringConverter class" Url="html/AllMembers.T-Newtonsoft.Json.GDPRCollectionOfStringConverter.htm" />
+  <HelpKINode Title="Newtonsoft.Json.GDPRCollectionOfStringConverter class" Url="html/T-Newtonsoft.Json.GDPRCollectionOfStringConverter.htm" />
+  <HelpKINode Title="Newtonsoft.Json.GDPRIPAddressConverter class" Url="html/AllMembers.T-Newtonsoft.Json.GDPRIPAddressConverter.htm" />
+  <HelpKINode Title="Newtonsoft.Json.GDPRIPAddressConverter class" Url="html/T-Newtonsoft.Json.GDPRIPAddressConverter.htm" />
+  <HelpKINode Title="Newtonsoft.Json.GDPRIPAddressListConverter class" Url="html/AllMembers.T-Newtonsoft.Json.GDPRIPAddressListConverter.htm" />
+  <HelpKINode Title="Newtonsoft.Json.GDPRIPAddressListConverter class" Url="html/T-Newtonsoft.Json.GDPRIPAddressListConverter.htm" />
+  <HelpKINode Title="Newtonsoft.Json.GDPRObfuscatedDateTimeConverter class" Url="html/AllMembers.T-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.htm" />
+  <HelpKINode Title="Newtonsoft.Json.GDPRObfuscatedDateTimeConverter class" Url="html/T-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.htm" />
+  <HelpKINode Title="Newtonsoft.Json.GDPRObfuscatedIntConverter class" Url="html/AllMembers.T-Newtonsoft.Json.GDPRObfuscatedIntConverter.htm" />
+  <HelpKINode Title="Newtonsoft.Json.GDPRObfuscatedIntConverter class" Url="html/T-Newtonsoft.Json.GDPRObfuscatedIntConverter.htm" />
+  <HelpKINode Title="Newtonsoft.Json.GDPRObfuscatedStringConverter class" Url="html/AllMembers.T-Newtonsoft.Json.GDPRObfuscatedStringConverter.htm" />
+  <HelpKINode Title="Newtonsoft.Json.GDPRObfuscatedStringConverter class" Url="html/T-Newtonsoft.Json.GDPRObfuscatedStringConverter.htm" />
+  <HelpKINode Title="ReadJson method" Url="html/M-Newtonsoft.Json.GDPRCollectionOfStringConverter.ReadJson.htm" />
+  <HelpKINode Title="ReadJson method" Url="html/M-Newtonsoft.Json.GDPRIPAddressConverter.ReadJson.htm" />
+  <HelpKINode Title="ReadJson method" Url="html/M-Newtonsoft.Json.GDPRIPAddressListConverter.ReadJson.htm" />
+  <HelpKINode Title="ReadJson method" Url="html/M-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.ReadJson.htm" />
+  <HelpKINode Title="ReadJson method" Url="html/M-Newtonsoft.Json.GDPRObfuscatedIntConverter.ReadJson.htm" />
+  <HelpKINode Title="ReadJson method" Url="html/M-Newtonsoft.Json.GDPRObfuscatedStringConverter.ReadJson.htm" />
+  <HelpKINode Title="ReadJson method" Url="html/Overload-Newtonsoft.Json.GDPRCollectionOfStringConverter.ReadJson.htm" />
+  <HelpKINode Title="ReadJson method" Url="html/Overload-Newtonsoft.Json.GDPRIPAddressConverter.ReadJson.htm" />
+  <HelpKINode Title="ReadJson method" Url="html/Overload-Newtonsoft.Json.GDPRIPAddressListConverter.ReadJson.htm" />
+  <HelpKINode Title="ReadJson method" Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.ReadJson.htm" />
+  <HelpKINode Title="ReadJson method" Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedIntConverter.ReadJson.htm" />
+  <HelpKINode Title="ReadJson method" Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedStringConverter.ReadJson.htm" />
+  <HelpKINode Title="StringExtensions class" Url="html/AllMembers.T-System.StringExtensions.htm" />
+  <HelpKINode Title="StringExtensions class" Url="html/T-System.StringExtensions.htm" />
+  <HelpKINode Title="StringExtensions class">
+    <HelpKINode Title="about StringExtensions class" Url="html/T-System.StringExtensions.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-System.StringExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-System.StringExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="System namespace" Url="html/N-System.htm" />
+  <HelpKINode Title="System.StringExtensions class" Url="html/AllMembers.T-System.StringExtensions.htm" />
+  <HelpKINode Title="System.StringExtensions class" Url="html/T-System.StringExtensions.htm" />
+  <HelpKINode Title="WriteJson method" Url="html/M-Newtonsoft.Json.GDPRCollectionOfStringConverter.WriteJson.htm" />
+  <HelpKINode Title="WriteJson method" Url="html/M-Newtonsoft.Json.GDPRIPAddressConverter.WriteJson.htm" />
+  <HelpKINode Title="WriteJson method" Url="html/M-Newtonsoft.Json.GDPRIPAddressListConverter.WriteJson.htm" />
+  <HelpKINode Title="WriteJson method" Url="html/M-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.WriteJson.htm" />
+  <HelpKINode Title="WriteJson method" Url="html/M-Newtonsoft.Json.GDPRObfuscatedIntConverter.WriteJson.htm" />
+  <HelpKINode Title="WriteJson method" Url="html/M-Newtonsoft.Json.GDPRObfuscatedStringConverter.WriteJson.htm" />
+  <HelpKINode Title="WriteJson method" Url="html/Overload-Newtonsoft.Json.GDPRCollectionOfStringConverter.WriteJson.htm" />
+  <HelpKINode Title="WriteJson method" Url="html/Overload-Newtonsoft.Json.GDPRIPAddressConverter.WriteJson.htm" />
+  <HelpKINode Title="WriteJson method" Url="html/Overload-Newtonsoft.Json.GDPRIPAddressListConverter.WriteJson.htm" />
+  <HelpKINode Title="WriteJson method" Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.WriteJson.htm" />
+  <HelpKINode Title="WriteJson method" Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedIntConverter.WriteJson.htm" />
+  <HelpKINode Title="WriteJson method" Url="html/Overload-Newtonsoft.Json.GDPRObfuscatedStringConverter.WriteJson.htm" />
+</HelpKI>

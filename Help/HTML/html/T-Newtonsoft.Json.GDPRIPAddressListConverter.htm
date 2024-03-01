@@ -1,0 +1,231 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"[]>
+<html>
+  <head><link rel="shortcut icon" href="../favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="save" content="history" />
+    <title>GDPRIPAddressListConverter Class</title>
+    <link rel="stylesheet" type="text/css" href="../styles/lightweight.css" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt" />
+    <link rel="stylesheet" type="text/css" href="../styles/lw-code.css" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt" />
+    <script type="text/javascript" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt" src="../scripts/languageSelector.js"> </script>
+    <meta name="container" content="Newtonsoft.Json" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt" />
+    <meta name="file" content="T-Newtonsoft.Json.GDPRIPAddressListConverter" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt" />
+    <meta name="guid" content="T-Newtonsoft.Json.GDPRIPAddressListConverter" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt" />
+    <xml xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+      <MSHelp:Attr Name="AssetID" Value="T:Newtonsoft.Json.GDPRIPAddressListConverter" />
+      <MSHelp:TOCTitle Title="GDPRIPAddressListConverter Class" />
+      <MSHelp:RLTitle Title="GDPRIPAddressListConverter Class (Newtonsoft.Json)" />
+      <MSHelp:Keyword Index="A" Term="T:Newtonsoft.Json.GDPRIPAddressListConverter" />
+      <MSHelp:Keyword Index="A" Term="frlrfNewtonsoftJsonGDPRIPAddressListConverterClassTopic" />
+      <MSHelp:Keyword Index="K" Term="GDPRIPAddressListConverter class" />
+      <MSHelp:Keyword Index="K" Term="Newtonsoft.Json.GDPRIPAddressListConverter class" />
+      <MSHelp:Keyword Index="K" Term="GDPRIPAddressListConverter class, about GDPRIPAddressListConverter class" />
+      <MSHelp:Keyword Index="F" Term="Newtonsoft.Json.GDPRIPAddressListConverter" />
+      <MSHelp:Attr Name="HelpPriority" Value="2" />
+      <MSHelp:Attr Name="APIType" Value="Managed" />
+      <MSHelp:Attr Name="APILocation" Value="Walter.Cypher.Newtonsoft.Json.dll" />
+      <MSHelp:Attr Name="APIName" Value="Newtonsoft.Json.GDPRIPAddressListConverter" />
+      <MSHelp:Attr Name="DevLang" Value="CSharp" />
+      <MSHelp:Attr Name="DevLang" Value="VB" />
+      <MSHelp:Attr Name="Locale" Value="en-us" />
+      <MSHelp:Attr Name="TopicType" Value="kbSyntax" />
+      <MSHelp:Attr Name="TopicType" Value="apiref" />
+      <MSHelp:Attr Name="Abstract" Value="Provides a JSON converter for lists of IP addresses (IPv4 and IPv6), ensuring GDPR-compliant encryption and decryption of data with a rotating IV for enhanced security. This converter encrypts lists of IP addresses during serialization and decrypt ..." />
+      <MSHelp:Attr Name="AssemblyVersion" Value="" />
+    </xml>
+    <link type="text/css" rel="stylesheet" href="../styles/highlight.css" />
+  <link rel="stylesheet" href="../TOC.css"><script type="text/javascript" src="../TOC.js"></script></head>
+  <body onload="javascript: Initialize();" onresize="javascript: ResizeTree();">
+            <div id="TOCDiv" class="TOCDiv" style="width: 310px; float: left; position: relative; ">
+
+            <div id="divSearchOpts" class="SearchOpts" style="height: 95px; display: none;">
+                <div class="SearchOptsInner">
+                    <img class="TOCLink" onclick="javascript: ShowHideSearch(false);" src="../Close.png" height="24" width="24" alt="Hide Search" title="Hide Search" style="float: right;" />
+                    <span class="Title">Keyword(s) to search:</span>
+                </div>
+                <div class="SearchOptsInner">
+                    <input id="txtSearchText" type="text" style="width: 95.5%;" onkeypress="javascript: return OnSearchTextKeyPress(event);" />
+                </div>
+                <div class="SearchOptsInner">
+                    <input id="chkSortByTitle" type="checkbox" />&nbsp;Sort results by title
+                    <input type="button" value="Search" onclick="javascript: return PerformSearch();" style="float: right;" />
+                </div>
+            </div>
+
+            <div id="divIndexOpts" class="IndexOpts" style="height: 28px; display: none;">
+                <img class="TOCLink" onclick="javascript: ShowHideIndex(false);"
+                     src="../Close.png" height="24" width="24" alt="Hide Keyword Index" title="Hide Keyword Index" style="float: right;" />
+                <span class="Title">Keyword Index</span>
+            </div>
+
+            <div id="divNavOpts" class="NavOpts" style="height: 28px;">
+                <!--<img class="TOCLink" onclick="javascript: SyncTOC();" src="../SyncTOC.png"
+                     height="24" width="24" alt="Sync to TOC" title="Sync to TOC" />-->
+                <img class="TOCLink" onclick="javascript: ExpandOrCollapseAll(true);"
+                     src="../ExpandAll.png" height="24" width="24" alt="Expand all" title="Expand all" />
+                <img class="TOCLink" onclick="javascript: ExpandOrCollapseAll(false);"
+                     src="../CollapseAll.png" height="24" width="24" alt="Collapse all" title="Collapse all" />
+                <!--<img class="TOCLink" onclick="javascript: alert('Please make sure to use either Index.aspx or Index.php to enable the Keyword Index feature.');"
+                     src="../Index.png" height="24" width="24" alt="Keyword Index" title="Keyword Index" />-->
+                <img class="TOCLink" onclick="javascript: ShowHideSearch(true);"
+                     src="../Search.png" height="24" width="24" alt="Search" title="Search" />
+                <img class="TOCLink" onclick="javascript: ShowDirectLink();"
+                     src="../Link.png" height="24" width="24" alt="Get direct link to the displayed topic" title="Get direct link to the displayed topic" />
+                <a href="#" onclick="javascript: window.history.go(-1); return false;">
+                    <img class="TOCLink" style="float: right;"
+                         src="../Back.png" height="24" width="24" alt="Previous page" title="Previous page" />
+                </a>
+            </div>
+
+            <div class="Tree" id="divSearchResults" style="display: none;"
+                 onselectstart="javascript: return false;">
+            </div>
+
+            <div class="Tree" id="divIndexResults" style="display: none;"
+                 onselectstart="javascript: return false;">
+            </div>
+
+            <div class="Tree" id="divTree" onselectstart="javascript: return false;">
+              <div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="N-Newtonsoft.Json.htm" target="_self">Newtonsoft.Json Namespace</a>
+<div class="Hidden">
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Newtonsoft.Json.BasicJsonConverter-2.htm" target="_self">BasicJsonConverter(TTarget, TImplementer) Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Newtonsoft.Json.GDPRCollectionOfStringConverter.htm" target="_self">GDPRCollectionOfStringConverter Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Newtonsoft.Json.GDPRIPAddressConverter.htm" target="_self">GDPRIPAddressConverter Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Newtonsoft.Json.GDPRIPAddressListConverter.htm" target="_self">GDPRIPAddressListConverter Class</a>
+<div class="Hidden">
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="AllMembers.T-Newtonsoft.Json.GDPRIPAddressListConverter.htm" target="_self">GDPRIPAddressListConverter Members</a>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="Methods.T-Newtonsoft.Json.GDPRIPAddressListConverter.htm" target="_self">GDPRIPAddressListConverter Methods</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeItem">
+<img src="../Item.gif"/><a class="UnselectedNode" onclick="javascript: return SelectNode(this);" href="Properties.T-Newtonsoft.Json.GDPRIPAddressListConverter.htm" target="_self">GDPRIPAddressListConverter Properties</a>
+</div>
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Newtonsoft.Json.GDPRObfuscatedDateTimeConverter.htm" target="_self">GDPRObfuscatedDateTimeConverter Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Newtonsoft.Json.GDPRObfuscatedIntConverter.htm" target="_self">GDPRObfuscatedIntConverter Class</a>
+<div class="Hidden">
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-Newtonsoft.Json.GDPRObfuscatedStringConverter.htm" target="_self">GDPRObfuscatedStringConverter Class</a>
+<div class="Hidden">
+</div>
+</div>
+</div>
+</div>
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="N-System.htm" target="_self">System Namespace</a>
+<div class="Hidden">
+<div class="TreeNode">
+<img class="TreeNodeImg" onclick="javascript: Toggle(this);" src="../Collapsed.png"/><a class="UnselectedNode" onclick="javascript: return Expand(this);" href="T-System.StringExtensions.htm" target="_self">StringExtensions Class</a>
+<div class="Hidden">
+</div>
+</div>
+</div>
+</div>
+
+            </div>
+
+        </div>
+
+        <div id="TOCSizer" class="TOCSizer" onmousedown="OnMouseDown(event)" onselectstart="javascript: return false;"></div>
+        
+        <div id ="TopicContent" name="TopicContent" class="TopicContent" style="float: none; margin-left: 312px;height: -webkit-fill-available;display:block;overflow: auto;">
+          <div class="header" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+      <table class="headerBar cl_lightweight_topnav_slice" border="0" cellpadding="0" cellspacing="0">
+        <tbody>
+          <tr>
+            <td class="leftSection cl_lightweight_header_leftSection_wave leftSectionImageClusterOverride" />
+            <td class="rightSection cl_lightweight_header_rightSection_wave rightSectionImageClusterOverride">
+              <div class="tabContainer">WALTER | Workable Algorithms for Location-aware Transmission, Encryption Response</div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+          <!-- Content Starts Here -->
+          <div class="contentPlaceHolder" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+      <div class="content">
+        <div class="topicContainer">
+          <div class="topic">
+            <p class="majorTitle" />
+            <h1 class="title">GDPRIPAddressListConverter Class</h1>
+            <div id="mainSection">
+              <div id="mainBody">
+                <div class="summary">
+Provides a JSON converter for lists of IP addresses (IPv4 and IPv6), ensuring GDPR-compliant encryption and decryption of data with a rotating IV for enhanced security.
+This converter encrypts lists of IP addresses during serialization and decrypts them during deserialization, making it suitable for handling sensitive network configuration data or user IP logs.
+</div>
+                <p />
+    <b>Namespace:</b> 
+   <a href="N-Newtonsoft.Json.htm">Newtonsoft.Json</a><br />
+    <b>Assembly:</b>
+   <span sdata="assembly">Walter.Cypher.Newtonsoft.Json</span> (in Walter.Cypher.Newtonsoft.Json.dll)<div class="LW_CollapsibleArea_Container"><div class="LW_CollapsibleArea_TitleDiv"><h2 class="LW_CollapsibleArea_Title">Syntax</h2><div class="LW_CollapsibleArea_HrDiv"><hr class="LW_CollapsibleArea_Hr" /></div></div><a id="syntaxSection"><!----></a><div class="CodeSnippetContainer"><div class="CodeSnippetContainerTabs"><div class="CodeSnippetContainerTabLeft"><!----></div><div class="CodeSnippetContainerTabFirst CSharpTab" id="CSharpTabId" style="background:white;border-bottom-color:white"><a href="javascript:setActiveTab('CodeSnippetContainerCode','CSharpCode','CSharpTabId');" title="C#">C#</a></div><div class="CodeSnippetContainerTabRight"><!----></div></div><div class="CodeSnippetContainerCodeCollection"><div class="CodeSnippetToolBar"><div class="CodeSnippetToolBarText" /></div><div class="CodeSnippetContainerCode CSharpCode"><pre xml:space="preserve" class="libCScode">[<span class="nolink">FeatureTagsAttribute</span>]
+<span class="keyword">public</span> <span class="keyword">class</span> <span class="identifier">GDPRIPAddressListConverter</span> : <a href="T-Newtonsoft.Json.BasicJsonConverter-2.htm">BasicJsonConverter</a>&lt;<a href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1" target="_blank">List</a>&lt;<a href="https://docs.microsoft.com/en-us/dotnet/api/system.net.ipaddress" target="_blank">IPAddress</a>&gt;, <span class="selflink">GDPRIPAddressListConverter</span>&gt;</pre></div></div></div></div><div class="LW_CollapsibleArea_Container"><div class="LW_CollapsibleArea_TitleDiv"><h2 class="LW_CollapsibleArea_Title">Remarks</h2><div class="LW_CollapsibleArea_HrDiv"><hr class="LW_CollapsibleArea_Hr" /></div></div><a id="remarksSection"><!----></a><p>The GDPRIPAddressListConverter secures lists of IP address data by encrypting the values when serialized to JSON and decrypting them back into their original form upon deserialization. It supports both IPv4 and IPv6 address formats. Utilizing a specified password along with a rotating initialization vector (IV), which is stored alongside the cypher bytes, ensures that identical lists of IP addresses result in different encrypted outputs each time, significantly enhancing data security.</p>
+///
+<p>Rotating IVs make the encryption scheme more robust by preventing various cryptographic attacks and making the encrypted data less predictable. The management of the IV is fully automated and included in the encrypted data, ensuring seamless encryption and decryption processes without additional setup.</p>
+///
+<p>This converter is especially recommended for applications that need to process or store lists of IP addresses, which could be considered personally identifiable information (PII) under GDPR or similar privacy regulations. It aids in maintaining user privacy and ensuring compliance with legal requirements regarding data protection.</p></div><div class="LW_CollapsibleArea_Container"><div class="LW_CollapsibleArea_TitleDiv"><h2 class="LW_CollapsibleArea_Title">Examples</h2><div class="LW_CollapsibleArea_HrDiv"><hr class="LW_CollapsibleArea_Hr" /></div></div><a id="exampleSection"><!----></a>
+This example shows how to use the GDPRIPAddressListConverter on a property representing a list of IP addresses for JSON serialization.
+<span id="cbc_1" x-lang="CSharp" codeLanguage="CSharp"><div class="highlight-title"><span class="highlight-copycode" tabindex="0"></span>C#</div><div class="code"><pre xml:space="preserve"><span class="highlight-keyword">public</span> <span class="highlight-keyword">class</span> NetworkAccessList
+{
+[JsonConverter(<span class="highlight-keyword">typeof</span>(GDPRIPAddressListConverter))]
+<span class="highlight-keyword">public</span> List&lt;IPAddress&gt; AllowedIPs { <span class="highlight-keyword">get</span>; <span class="highlight-keyword">set</span>; }
+}
+<span class="highlight-comment">///</span>
+<span class="highlight-keyword">var</span> accessList = <span class="highlight-keyword">new</span> NetworkAccessList
+{
+AllowedIPs = <span class="highlight-keyword">new</span> List&lt;IPAddress&gt; { IPAddress.Parse(<span class="highlight-literal">"192.168.1.1"</span>), IPAddress.Parse(<span class="highlight-literal">"10.0.0.1"</span>) }
+};
+<span class="highlight-comment">///</span>
+<span class="highlight-keyword">var</span> options = <span class="highlight-keyword">new</span> JsonSerializerOptions
+{
+Converters = { <span class="highlight-keyword">new</span> GDPRIPAddressListConverter() }
+};
+<span class="highlight-keyword">var</span> json = JsonSerializer.Serialize(accessList, options);
+<span class="highlight-comment">// The 'AllowedIPs' list is encrypted with a unique IV for each IP address, resulting in different cypher text for identical IP addresses.</span></pre></div></span></div><div class="LW_CollapsibleArea_Container"><div class="LW_CollapsibleArea_TitleDiv"><h2 class="LW_CollapsibleArea_Title">Inheritance Hierarchy</h2><div class="LW_CollapsibleArea_HrDiv"><hr class="LW_CollapsibleArea_Hr" /></div></div><a id="familySection"><!----></a><a href="T-Newtonsoft.Json.BasicJsonConverter-2.htm">Newtonsoft.Json<span class="languageSpecificText"><span class="cs">.</span><span class="vb">.</span><span class="cpp">::</span><span class="nu">.</span><span class="fs">.</span></span>BasicJsonConverter</a><span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span><a href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1" target="_blank">List</a><span class="languageSpecificText"><span class="cs">&lt;</span><span class="vb">(Of </span><span class="cpp">&lt;</span><span class="nu">(</span><span class="fs">&lt;'</span></span><a href="https://docs.microsoft.com/en-us/dotnet/api/system.net.ipaddress" target="_blank">IPAddress</a><span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span>, <span class="selflink">GDPRIPAddressListConverter</span><span class="languageSpecificText"><span class="cs">&gt;</span><span class="vb">)</span><span class="cpp">&gt;</span><span class="nu">)</span><span class="fs">&gt;</span></span><br />    <span class="selflink">Newtonsoft.Json<span class="languageSpecificText"><span class="cs">.</span><span class="vb">.</span><span class="cpp">::</span><span class="nu">.</span><span class="fs">.</span></span>GDPRIPAddressListConverter</span><br /></div><div class="LW_CollapsibleArea_Container"><div class="LW_CollapsibleArea_TitleDiv"><h2 class="LW_CollapsibleArea_Title">See Also</h2><div class="LW_CollapsibleArea_HrDiv"><hr class="LW_CollapsibleArea_Hr" /></div></div><a id="seeAlsoSection"><!----></a><div class="seeAlsoStyle"><a href="AllMembers.T-Newtonsoft.Json.GDPRIPAddressListConverter.htm">GDPRIPAddressListConverter Members</a></div><div class="seeAlsoStyle"><a href="N-Newtonsoft.Json.htm">Newtonsoft.Json Namespace</a></div></div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="footer">
+        <div id="footer" class="footerContainer" style="border-top-width:0px;">
+          <div class="footerLogoContainer">
+            <div style="margin-top:5px">
+              <span class="customCopyrightFooter">© 2019 -2024 Walter Verhoeven, Lambert Snellinx, all rights reserved</span>
+            </div>
+            <div style="margin-top:5px" class="copyrightFooter" />
+            <div> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+          <!-- /Content Ends Here -->
+        </div>
+
+
+  </body>
+</html>
