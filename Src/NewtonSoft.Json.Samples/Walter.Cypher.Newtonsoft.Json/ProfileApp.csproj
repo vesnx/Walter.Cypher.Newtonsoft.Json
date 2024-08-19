@@ -23,7 +23,7 @@
     <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="8.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="System.Text.Json" Version="8.0.4" />
-    <PackageReference Include="Walter.Cypher.Newtonsoft.Json" Version="2024.8.14.1256" />
+    <PackageReference Include="Walter.Cypher.Newtonsoft.Json" Version="2024.8.19.1400" />
   </ItemGroup>
 
 </Project>
